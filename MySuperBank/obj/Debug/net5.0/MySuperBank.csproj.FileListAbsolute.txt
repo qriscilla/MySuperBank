@@ -1,0 +1,15 @@
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/bin/Debug/net5.0/MySuperBank.deps.json
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/bin/Debug/net5.0/MySuperBank.runtimeconfig.json
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/bin/Debug/net5.0/MySuperBank.runtimeconfig.dev.json
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/bin/Debug/net5.0/MySuperBank.dll
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/bin/Debug/net5.0/ref/MySuperBank.dll
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/bin/Debug/net5.0/MySuperBank.pdb
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/obj/Debug/net5.0/MySuperBank.csprojAssemblyReference.cache
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/obj/Debug/net5.0/MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/obj/Debug/net5.0/MySuperBank.AssemblyInfoInputs.cache
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/obj/Debug/net5.0/MySuperBank.AssemblyInfo.cs
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/obj/Debug/net5.0/MySuperBank.csproj.CoreCompileInputs.cache
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/obj/Debug/net5.0/MySuperBank.dll
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/obj/Debug/net5.0/ref/MySuperBank.dll
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/obj/Debug/net5.0/MySuperBank.pdb
+/Users/priscillawhang/Desktop/Coding/MySuperBank/MySuperBank/obj/Debug/net5.0/MySuperBank.genruntimeconfig.cache

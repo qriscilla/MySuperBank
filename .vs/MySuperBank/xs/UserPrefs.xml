@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A96896B8-A6BA-495B-9BF5-83A37E9C8470}|Default">
+  <MonoDevelop.Ide.ItemProperties.MySuperBank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySuperBank/Program.cs">
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MySuperBank" expanded="True">
+            <Node name="MySuperBank" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="MySuperBank" expanded="True" selected="True">
+            <Node name="MySuperBank" expanded="True">
+              <Node name="MySuperBank" expanded="True">
+                <Node name="MySuperBank.Program" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
